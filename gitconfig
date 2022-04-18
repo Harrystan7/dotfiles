@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = harry_stan57@hotmail.com
+	name = Harry Stanworth
